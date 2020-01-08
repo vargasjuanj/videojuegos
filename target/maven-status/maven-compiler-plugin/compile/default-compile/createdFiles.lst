@@ -1,0 +1,4 @@
+com\example\videojuegos\controller\service\VideoJuegoService.class
+com\example\videojuegos\VideojuegosApplication.class
+com\example\videojuegos\domain\VideoJuego.class
+com\example\videojuegos\controller\ListadoController.class
